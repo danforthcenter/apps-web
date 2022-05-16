@@ -3,7 +3,7 @@ title: Alliance for Plant Phenotyping Software Developers
 description: > # this means to ignore newlines until "baseurl:"
   The Alliance for Plant Phenotyping Software (APPS) Developers is a collaborative network of contributors of
   computational methods in the plant phenotyping community.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/apps-web" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 data_dir: _data
