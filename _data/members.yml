@@ -1,0 +1,39 @@
+- name: Malia Gehan
+  title: Assistant Member
+  institute: Donald Danforth Plant Science Center
+  avatar: "/img/mgehan.jpg"
+  web: https://www.gehan-lab.org/
+  github: maliagehan
+  twitter: maliagehan
+
+- name: Noah Fahlgren
+  title: Director, Data Science
+  institute: Donald Danforth Plant Science Center
+  avatar: "/img/nfahlgren.jpg"
+  web: https://www.danforthcenter.org/our-work/principal-investigators/noah-fahlgren/
+  github: nfahlgren
+  twitter: NoahFahlgren
+
+- name: Alina Zare
+  title: Professor, Machine Learning and Sensing Lab
+  institute: University of Florida
+  avatar: "/img/azare.jpg"
+  web: https://faculty.eng.ufl.edu/alina-zare/
+  github: alinazare
+  twitter: ProfZare
+
+- name: Susan Meerdink
+  title: Assistant Professor
+  institute: University of Iowa
+  avatar: "/img/smeerdink.jpg"
+  web: https://www.susanmeerdink.com/
+  github: susanmeerdink
+  twitter: DrMeerdink
+
+- name: Haley Schuhl
+  title: Data Scientist
+  institute: Donald Danforth Plant Science Center
+  avatar: "/img/hschuhl.jpg"
+  web: https://www.danforthcenter.org/our-work/principal-investigators/noah-fahlgren/
+  github: HaleySchuhl
+  twitter: HaleySchuhl
