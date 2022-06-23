@@ -10,7 +10,7 @@
                 <h2>{{ member.name }}</h2>
                 <h6 class="fw-bold">{{ member.title }}</h6>
                 <h6 class="fw-bold">{{ member.institute }}</h6>
-                <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+                <p style="text-align: justify;">{{ member.bio }}</p>
                 <!-- GitHub -->
                 {% if member.github %}
                     <a href="https://github.com/{{ member.github }}" class="icon-link d-inline-flex align-items-center">

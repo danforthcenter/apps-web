@@ -4,14 +4,14 @@
 {% include head.html %}
 
 <body>
-  {% include header.html %}
-  <main>
-    <hr class="featurette-divider">
+  <div class="container">
+    {% include nav.html %}
+    {% include network.html %}
     {% include members.html %}
     <hr class="featurette-divider">
     {% include footer.html %}
-  </main>
-  {% include scripts.html %}
+    {% include scripts.html %}
+  </div>
 </body>
 
 </html>
